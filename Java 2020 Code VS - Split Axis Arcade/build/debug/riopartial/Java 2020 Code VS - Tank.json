@@ -1,0 +1,9 @@
+[
+  {
+    "artifact": "frcJava (in project Java 2020 Code VS - Tank)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "Java 2020 Code VS - Tank",
+    "language": "java"
+  }
+]
